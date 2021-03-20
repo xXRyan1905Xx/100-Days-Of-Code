@@ -5,16 +5,16 @@
 * [References]
 
 ### Who
-My name's Ryan and I currently for as a Network Engineer in Australia.</p>
+My name's Ryan and I currently work as a Network Engineer in Australia.
 
 ### What
-I have decided to take the #100DaysOfCode challenge and decided to use GitHub to store the code I create over the next 100 days. Along with the code, you can find my log that 'll be using to keep track of my time, challenges and outcomes.
+I have decided to take the #100DaysOfCode challenge and decided to use GitHub to store the code I create over the next 100 days. Along with the code, you can find my log that I'll be using to keep track of my time, challenges and outcomes.
 
 ### Where
 I'll be doing the majority of the challenge from home.
 
 ### When
-I will be starting the challenge today the 21st of March 2021.
+I will be starting the challenge on the 21st of March 2021. The 20th of March 2021 will be used to get my GitHub and Centos VM configured correctly.
 
 ### Why
 The networking field is changing and a shift is occurring towards the programming and automation of networks. Instead of being left behind, I want to challenge myself to increase my skills and knowledge in this area, along with making myself accountable.
