@@ -2,7 +2,7 @@
 
 ## Contents
 * [Log](log.md)
-* [References]
+* [References](references.md)
 
 ### Who
 My name's Ryan and I currently work as a Network Engineer in Australia.
