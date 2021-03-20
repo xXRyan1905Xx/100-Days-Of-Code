@@ -1,7 +1,7 @@
 # 100 Days Of Code Challenge
 
 ## Contents
-* [Log]
+* [Log](log.md)
 * [References]
 
 ### Who
